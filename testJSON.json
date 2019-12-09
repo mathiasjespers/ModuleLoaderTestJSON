@@ -3,8 +3,16 @@
     {
       "id": 1,
       "name": "calendar",
+      "url": "/calendar",
       "active": "true",
       "desc": "An easy calendar add-on to track your events"
+    },
+    {
+      "id": 2,
+      "name": "contact",
+      "url": "/contact",
+      "active": "true",
+      "desc": "Intuitive contact page with google map integration"
     },
     {
     "id": 2,
