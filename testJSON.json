@@ -17,18 +17,21 @@
     {
     "id": 2,
     "name": "sign up",
+    "url": "/signup",
     "active": "false",
       "desc": "sign up add on to let users sign up to certain events"
     },
     {
       "id": 3,
       "name": "events",
+      "url": "/events",
       "active": "true",
       "desc": "Create events manually and add them to your calendar automatically"
     },
     {
       "id": 4,
       "name": "testModule",
+      "url": "/test",
       "active": "false",
       "desc": "dit is een test module"
     }
