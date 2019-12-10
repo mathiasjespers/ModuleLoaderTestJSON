@@ -3,35 +3,30 @@
     {
       "id": 1,
       "name": "calendar",
-      "url": "/calendar",
       "active": true,
       "desc": "An easy calendar add-on to track your events"
     },
     {
       "id": 2,
       "name": "contact",
-      "url": "/contact",
       "active": true,
       "desc": "Intuitive contact page with google map integration"
     },
     {
     "id": 3,
     "name": "sign up",
-    "url": "/signup",
     "active": false,
       "desc": "sign up add on to let users sign up to certain events"
     },
     {
       "id": 4,
       "name": "events",
-      "url": "/events",
       "active": true,
       "desc": "Create events manually and add them to your calendar automatically"
     },
     {
       "id": 5,
       "name": "testModule",
-      "url": "/test",
       "active": false,
       "desc": "dit is een test module"
     }
