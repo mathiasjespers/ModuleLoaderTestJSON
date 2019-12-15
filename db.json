@@ -2,7 +2,7 @@
   "modules": [
     {
       "id": 1,
-      "name": "events",
+      "name": "blog",
       "active": true,
       "desc": "An easy calendar add-on to track your events"
     },
