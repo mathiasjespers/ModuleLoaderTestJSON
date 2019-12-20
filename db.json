@@ -14,7 +14,7 @@
     },
     {
     "id": 3,
-    "name": "signup",
+    "name": "register",
     "active": true,
       "desc": "sign up add on to let users sign up to certain events"
     },
